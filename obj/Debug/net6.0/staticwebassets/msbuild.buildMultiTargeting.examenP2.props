@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\examenP2.props" />
+</Project>
